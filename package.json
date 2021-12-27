@@ -20,5 +20,14 @@
     "express-session": "^1.17.2",
     "mysql2": "^2.3.3",
     "sequelize": "^6.12.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SmasherCoder/techblog.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SmasherCoder/techblog/issues"
+  },
+  "homepage": "https://github.com/SmasherCoder/techblog#readme"
 }
